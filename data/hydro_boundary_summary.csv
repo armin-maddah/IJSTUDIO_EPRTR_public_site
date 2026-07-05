@@ -1,0 +1,4 @@
+hydro_entity_type,source_layer,feature_count,total_length_km,total_area_km2
+canal_line,Canals_l,81,453.172,0.0
+coastal_polygon,Coastal_p,4,407.311,383.572
+major_river_line,River_Net_l,1222,3247.576,0.0

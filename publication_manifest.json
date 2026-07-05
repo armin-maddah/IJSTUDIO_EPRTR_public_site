@@ -1,0 +1,114 @@
+{
+  "analysis_overview": {
+    "chlorine_chloride_facility_count": 25,
+    "column_count": 59,
+    "facility_rows": 1611,
+    "polish_mineral_compound_count": 50,
+    "polish_mineral_facility_count": 116,
+    "selected_hydro_entity_count": 1307,
+    "source": "outputs/phase1",
+    "within_100m_count": 9,
+    "within_10km_count": 1611,
+    "within_1km_count": 327
+  },
+  "file_count": 17,
+  "files": [
+    {
+      "path": "assets/app.css",
+      "sha256": "bc4b88e16ef27e4bd7778fd32d8c77d142f89adf7d16a6f761f916ab13c84843",
+      "size_bytes": 7929
+    },
+    {
+      "path": "assets/app.js",
+      "sha256": "5e3b95b68790a5110e4ba30167d3317f36de3a4c9dd823d07645dbb19025edf6",
+      "size_bytes": 20557
+    },
+    {
+      "path": "assets/folium_map.html",
+      "sha256": "36646b6071136665c5f3022f30718daff45377dcdd89b014375893202ce12536",
+      "size_bytes": 5138312
+    },
+    {
+      "path": "data/analysis_summary.json",
+      "sha256": "4141ca623d2003c059d4fbcc86f3ba548b5d6b1e1418824219aef8b0ecd1e3b8",
+      "size_bytes": 242200
+    },
+    {
+      "path": "data/column_metadata.json",
+      "sha256": "1b47051fa97af5fc393b168f5c5431c2a88eaac0342d52b284b9c037fa491639",
+      "size_bytes": 10328
+    },
+    {
+      "path": "data/country_distance_class_summary.csv",
+      "sha256": "f585c97b716553de95ae3c629dafe9c9944904c3a0985359a53aadd3be545e33",
+      "size_bytes": 1380
+    },
+    {
+      "path": "data/distance_class_summary.csv",
+      "sha256": "221c09c6a08673faa130adf33f15eb0f2f2413eea3b24d2e572b3291b0e04e2c",
+      "size_bytes": 161
+    },
+    {
+      "path": "data/facet_indexes.json",
+      "sha256": "b19b014d257eecc869fbde9bd6bcbee4779a8df353be1d39cd6733b0223c26d8",
+      "size_bytes": 40680
+    },
+    {
+      "path": "data/facilities.csv",
+      "sha256": "3a1013c043a83e31cd1130f9c60a310f6413c856171dfb21db54812186967a06",
+      "size_bytes": 1168372
+    },
+    {
+      "path": "data/facilities.geojson",
+      "sha256": "191b33d78529395f4825892eb19d2170f32e6dc6ea04e204d0a1cfe41822bbb5",
+      "size_bytes": 4239786
+    },
+    {
+      "path": "data/hydro_boundary.geojson",
+      "sha256": "6952c3aef89b741b7df151524aa022017162e6ecf9b904feb35c2b8cfa68020f",
+      "size_bytes": 1479042
+    },
+    {
+      "path": "data/hydro_boundary_summary.csv",
+      "sha256": "584ec68e1cb24a8ab91a43b08655567ec2ca049747aa3108ebc3af415d842b3e",
+      "size_bytes": 202
+    },
+    {
+      "path": "downloads/oder_facilities_within_10km.csv",
+      "sha256": "3a1013c043a83e31cd1130f9c60a310f6413c856171dfb21db54812186967a06",
+      "size_bytes": 1168372
+    },
+    {
+      "path": "downloads/table5_water_release_chlorine_chloride_facilities.csv",
+      "sha256": "bdd04fbfb1de12d98b5467edec8fa3621fcc0560294f0cda8185ee41ff970df4",
+      "size_bytes": 44153
+    },
+    {
+      "path": "downloads/table6_polish_mineral_industry_facilities.csv",
+      "sha256": "b2cd6392ea4160f38dc5fcfa7f870dc532cd66345c563e3f4ec059c1e736f134",
+      "size_bytes": 83650
+    },
+    {
+      "path": "downloads/table6a_polish_mineral_industry_compounds.csv",
+      "sha256": "76dd15d1a4257846aa175da05e190403d72d1e9e32e495e5a66b70a7487168b2",
+      "size_bytes": 4759
+    },
+    {
+      "path": "index.html",
+      "sha256": "f7b9dc51d311353beba58809830322c95dab174637b23f91cb3d3f15959ee791",
+      "size_bytes": 4639
+    }
+  ],
+  "generated_at_utc": "2026-07-05T14:54:08+00:00",
+  "generator": "scripts/export_public_site_repo.py",
+  "phase1_input_snapshot": "deploy/phase1_inputs",
+  "private_source_repository": "IJSTUDIO_EPRTR",
+  "public_export_paths": [
+    "index.html",
+    "assets",
+    "data",
+    "downloads"
+  ],
+  "site_source": "site",
+  "total_size_bytes": 13654522
+}

@@ -1,0 +1,45 @@
+country_name,distance_class,facility_count
+Poland,0-100 m,9
+Poland,1-10 km,1016
+Germany,1-10 km,147
+Czechia,1-10 km,120
+United Kingdom,1-10 km,1
+Poland,10-50 km,1721
+Czechia,10-50 km,599
+Germany,10-50 km,521
+Italy,10-50 km,1
+Poland,100 m - 1 km,245
+Germany,100 m - 1 km,46
+Czechia,100 m - 1 km,27
+United Kingdom,>50 km / not matched,14666
+Germany,>50 km / not matched,12834
+France,>50 km / not matched,11160
+Italy,>50 km / not matched,10735
+Spain,>50 km / not matched,9351
+Netherlands,>50 km / not matched,5648
+Czechia,>50 km / not matched,3932
+Denmark,>50 km / not matched,3639
+Belgium,>50 km / not matched,3311
+Poland,>50 km / not matched,2468
+Hungary,>50 km / not matched,2004
+Norway,>50 km / not matched,1911
+Sweden,>50 km / not matched,1771
+Romania,>50 km / not matched,1728
+Finland,>50 km / not matched,1451
+Portugal,>50 km / not matched,1237
+Austria,>50 km / not matched,993
+Ireland,>50 km / not matched,957
+Bulgaria,>50 km / not matched,845
+Slovakia,>50 km / not matched,670
+Greece,>50 km / not matched,633
+Serbia,>50 km / not matched,572
+Lithuania,>50 km / not matched,433
+Croatia,>50 km / not matched,401
+Switzerland,>50 km / not matched,298
+Slovenia,>50 km / not matched,296
+Estonia,>50 km / not matched,248
+Latvia,>50 km / not matched,160
+Cyprus,>50 km / not matched,143
+Iceland,>50 km / not matched,62
+Luxembourg,>50 km / not matched,60
+Malta,>50 km / not matched,48

@@ -1,0 +1,463 @@
+[
+  {
+    "dtype": "str",
+    "name": "facility_key",
+    "null_count": 0,
+    "suggested_control": "text",
+    "unique_value_count": 1611
+  },
+  {
+    "dtype": "str",
+    "name": "facility_id",
+    "null_count": 0,
+    "suggested_control": "text",
+    "unique_value_count": 1611
+  },
+  {
+    "dtype": "str",
+    "name": "facility_name",
+    "null_count": 0,
+    "suggested_control": "text",
+    "unique_value_count": 1556
+  },
+  {
+    "dtype": "str",
+    "name": "city",
+    "null_count": 0,
+    "suggested_control": "text",
+    "unique_value_count": 664
+  },
+  {
+    "dtype": "str",
+    "name": "country_name",
+    "null_count": 0,
+    "suggested_control": "categorical",
+    "unique_value_count": 4
+  },
+  {
+    "dtype": "float64",
+    "max": 19.68333,
+    "min": 13.40755,
+    "name": "longitude",
+    "null_count": 0,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 1540
+  },
+  {
+    "dtype": "float64",
+    "max": 54.5425338745117,
+    "min": 49.760183333333,
+    "name": "latitude",
+    "null_count": 0,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 1544
+  },
+  {
+    "dtype": "int64",
+    "max": 2024,
+    "min": 2007,
+    "name": "first_year",
+    "null_count": 0,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 18
+  },
+  {
+    "dtype": "int64",
+    "max": 2024,
+    "min": 2007,
+    "name": "latest_year",
+    "null_count": 0,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 18
+  },
+  {
+    "dtype": "int64",
+    "max": 18,
+    "min": 1,
+    "name": "reporting_year_count",
+    "null_count": 0,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 18
+  },
+  {
+    "dtype": "int64",
+    "max": 207,
+    "min": 1,
+    "name": "source_record_count",
+    "null_count": 0,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 70
+  },
+  {
+    "dtype": "str",
+    "name": "source_tables",
+    "null_count": 0,
+    "suggested_control": "multi_value",
+    "unique_value_count": 78
+  },
+  {
+    "dtype": "float64",
+    "max": 9987.879303808168,
+    "min": 10.929700922674662,
+    "name": "distance_to_oder_hydro_boundary_m",
+    "null_count": 0,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 1557
+  },
+  {
+    "dtype": "float64",
+    "max": 9.988,
+    "min": 0.011,
+    "name": "distance_to_oder_hydro_boundary_km",
+    "null_count": 0,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 1382
+  },
+  {
+    "dtype": "str",
+    "name": "distance_class",
+    "null_count": 0,
+    "suggested_control": "categorical",
+    "unique_value_count": 3
+  },
+  {
+    "dtype": "str",
+    "name": "nearest_hydro_entity_type",
+    "null_count": 0,
+    "suggested_control": "categorical",
+    "unique_value_count": 3
+  },
+  {
+    "dtype": "str",
+    "name": "nearest_hydro_source_layer",
+    "null_count": 0,
+    "suggested_control": "categorical",
+    "unique_value_count": 3
+  },
+  {
+    "dtype": "str",
+    "name": "nearest_hydro_entity_id",
+    "null_count": 0,
+    "suggested_control": "text",
+    "unique_value_count": 461
+  },
+  {
+    "dtype": "str",
+    "name": "nearest_hydro_entity_name",
+    "null_count": 289,
+    "suggested_control": "text",
+    "unique_value_count": 118
+  },
+  {
+    "dtype": "str",
+    "name": "nearest_hydro_dfdd",
+    "null_count": 0,
+    "suggested_control": "categorical",
+    "unique_value_count": 3
+  },
+  {
+    "dtype": "str",
+    "name": "nearest_hydro_rex",
+    "null_count": 15,
+    "suggested_control": "categorical",
+    "unique_value_count": 5
+  },
+  {
+    "dtype": "float64",
+    "max": 7.0,
+    "min": -9999.0,
+    "name": "nearest_hydro_strahler",
+    "null_count": 15,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 8
+  },
+  {
+    "dtype": "float64",
+    "max": 1.0,
+    "min": 1.0,
+    "name": "nearest_hydro_mc",
+    "null_count": 301,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 1
+  },
+  {
+    "dtype": "str",
+    "name": "nearest_hydro_basin_district",
+    "null_count": 1596,
+    "suggested_control": "categorical",
+    "unique_value_count": 1
+  },
+  {
+    "dtype": "float64",
+    "max": 38715.99830062702,
+    "min": 10.929700922674662,
+    "name": "distance_to_major_river_line_m",
+    "null_count": 1,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 1556
+  },
+  {
+    "dtype": "float64",
+    "max": 38.716,
+    "min": 0.011,
+    "name": "distance_to_major_river_line_km",
+    "null_count": 1,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 1408
+  },
+  {
+    "dtype": "str",
+    "name": "nearest_major_river_line_source_layer",
+    "null_count": 1,
+    "suggested_control": "categorical",
+    "unique_value_count": 1
+  },
+  {
+    "dtype": "str",
+    "name": "nearest_major_river_line_id",
+    "null_count": 1,
+    "suggested_control": "text",
+    "unique_value_count": 431
+  },
+  {
+    "dtype": "str",
+    "name": "nearest_major_river_line_name",
+    "null_count": 4,
+    "suggested_control": "text",
+    "unique_value_count": 116
+  },
+  {
+    "dtype": "float64",
+    "max": 49943.557759430565,
+    "min": 13.23079170753016,
+    "name": "distance_to_canal_line_m",
+    "null_count": 386,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 1175
+  },
+  {
+    "dtype": "float64",
+    "max": 49.944,
+    "min": 0.013,
+    "name": "distance_to_canal_line_km",
+    "null_count": 386,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 1123
+  },
+  {
+    "dtype": "str",
+    "name": "nearest_canal_line_source_layer",
+    "null_count": 386,
+    "suggested_control": "categorical",
+    "unique_value_count": 1
+  },
+  {
+    "dtype": "str",
+    "name": "nearest_canal_line_id",
+    "null_count": 386,
+    "suggested_control": "categorical",
+    "unique_value_count": 62
+  },
+  {
+    "dtype": "float64",
+    "name": "nearest_canal_line_name",
+    "null_count": 1611,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 0
+  },
+  {
+    "dtype": "float64",
+    "max": 49556.187412996005,
+    "min": 506.3230126079256,
+    "name": "distance_to_coastal_polygon_m",
+    "null_count": 1523,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 87
+  },
+  {
+    "dtype": "float64",
+    "max": 49.556,
+    "min": 0.506,
+    "name": "distance_to_coastal_polygon_km",
+    "null_count": 1523,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 85
+  },
+  {
+    "dtype": "str",
+    "name": "nearest_coastal_polygon_source_layer",
+    "null_count": 1523,
+    "suggested_control": "categorical",
+    "unique_value_count": 1
+  },
+  {
+    "dtype": "str",
+    "name": "nearest_coastal_polygon_id",
+    "null_count": 1523,
+    "suggested_control": "categorical",
+    "unique_value_count": 4
+  },
+  {
+    "dtype": "str",
+    "name": "nearest_coastal_polygon_name",
+    "null_count": 1523,
+    "suggested_control": "categorical",
+    "unique_value_count": 4
+  },
+  {
+    "dtype": "str",
+    "name": "feature_ids",
+    "null_count": 457,
+    "suggested_control": "multi_value",
+    "unique_value_count": 1154
+  },
+  {
+    "dtype": "float64",
+    "max": 9.0,
+    "min": 1.0,
+    "name": "sector_codes",
+    "null_count": 758,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 9
+  },
+  {
+    "dtype": "str",
+    "name": "sector_names",
+    "null_count": 758,
+    "suggested_control": "categorical",
+    "unique_value_count": 9
+  },
+  {
+    "dtype": "str",
+    "name": "annex_activities",
+    "null_count": 306,
+    "suggested_control": "categorical",
+    "unique_value_count": 55
+  },
+  {
+    "dtype": "int64",
+    "max": 44,
+    "min": 0,
+    "name": "pollutant_count",
+    "null_count": 0,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 28
+  },
+  {
+    "dtype": "str",
+    "name": "pollutants",
+    "null_count": 1140,
+    "suggested_control": "multi_value",
+    "unique_value_count": 220
+  },
+  {
+    "dtype": "str",
+    "name": "latest_pollutants",
+    "null_count": 1140,
+    "suggested_control": "multi_value",
+    "unique_value_count": 152
+  },
+  {
+    "dtype": "float64",
+    "max": 594690309020.3011,
+    "min": 0.0013999999999999,
+    "name": "air_release_total",
+    "null_count": 1222,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 380
+  },
+  {
+    "dtype": "float64",
+    "max": 8918046376.5,
+    "min": 7.39,
+    "name": "water_release_total",
+    "null_count": 1528,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 83
+  },
+  {
+    "dtype": "float64",
+    "max": 795407310.43,
+    "min": 1.04,
+    "name": "pollutant_transfer_total",
+    "null_count": 1515,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 96
+  },
+  {
+    "dtype": "float64",
+    "max": 48391848.1,
+    "min": 2.06,
+    "name": "waste_transfer_total",
+    "null_count": 861,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 746
+  },
+  {
+    "dtype": "str",
+    "name": "waste_treatments",
+    "null_count": 861,
+    "suggested_control": "multi_value",
+    "unique_value_count": 6
+  },
+  {
+    "dtype": "str",
+    "name": "waste_classifications",
+    "null_count": 861,
+    "suggested_control": "multi_value",
+    "unique_value_count": 6
+  },
+  {
+    "dtype": "float64",
+    "max": 603800.7326,
+    "min": 73.3,
+    "name": "lcp_feature_value_total",
+    "null_count": 1471,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 137
+  },
+  {
+    "dtype": "str",
+    "name": "lcp_feature_types",
+    "null_count": 1471,
+    "suggested_control": "multi_value",
+    "unique_value_count": 1
+  },
+  {
+    "dtype": "str",
+    "name": "lcp_units",
+    "null_count": 1471,
+    "suggested_control": "multi_value",
+    "unique_value_count": 1
+  },
+  {
+    "dtype": "str",
+    "name": "ied_statuses",
+    "null_count": 458,
+    "suggested_control": "multi_value",
+    "unique_value_count": 8
+  },
+  {
+    "dtype": "str",
+    "name": "ied_activity_names",
+    "null_count": 458,
+    "suggested_control": "multi_value",
+    "unique_value_count": 139
+  },
+  {
+    "dtype": "str",
+    "name": "bat_conclusions",
+    "null_count": 458,
+    "suggested_control": "multi_value",
+    "unique_value_count": 64
+  },
+  {
+    "dtype": "float64",
+    "max": 114.0,
+    "min": 0.0,
+    "name": "wi_cowi_capacity_total",
+    "null_count": 1593,
+    "suggested_control": "numeric_range",
+    "unique_value_count": 17
+  }
+]

@@ -1,0 +1,51 @@
+source_table,target_release,pollutant,facility_count,fact_record_count,first_reporting_year,latest_reporting_year,total_reported_amount,median_reported_amount,minimum_reported_amount,maximum_reported_amount
+air_releases,AIR,Nitrogen oxides (NOX),16,199,2007,2024,174562000.0,427000.0,100000.0,4060000.0
+air_releases,AIR,Particulate matter (PM10),16,89,2007,2024,7371400.0,69000.0,50500.0,327000.0
+air_releases,AIR,Sulphur oxides (SOX),12,94,2007,2024,36125000.0,286500.0,152000.0,1590000.0
+air_releases,AIR,Carbon dioxide (CO2),11,164,2007,2024,101696000000.0,257000000.0,100000000.0,2950000000.0
+air_releases,AIR,Carbon monoxide (CO),9,111,2007,2024,508895000.0,2290000.0,509000.0,28400000.0
+air_releases,AIR,Ammonia (NH3),8,69,2007,2024,9575200.0,95300.0,10400.0,507000.0
+water_releases,WATER,Nickel and compounds (as Ni),8,52,2007,2024,8160.2,115.5,27.0,505.0
+water_releases,WATER,Zinc and compounds (as Zn),8,41,2007,2024,29500.0,384.0,101.0,4040.0
+air_releases,AIR,Hydrochlorofluorocarbons (HCFCs),8,20,2007,2022,3437.52,26.75,3.5,1100.0
+air_releases,AIR,Methane (CH4),6,66,2007,2024,1371415000.0,18050000.0,107000.0,78400000.0
+water_releases,WATER,Arsenic and compounds (as As),6,48,2007,2024,3317.47,42.75,5.22,318.0
+water_releases,WATER,Chromium and compounds (as Cr),6,41,2007,2023,17253.3,322.0,56.8,1450.0
+water_releases,WATER,Copper and compounds (as Cu),6,38,2007,2024,4656.2,94.75,50.8,404.0
+air_releases,AIR,Mercury and compounds (as Hg),5,51,2007,2024,2416.0,31.0,11.0,239.0
+water_releases,WATER,Lead and compounds (as Pb),5,44,2007,2024,5249.9,61.3,20.1,598.0
+water_releases,WATER,Total organic carbon(as total C or COD/3) (TOC),5,42,2007,2022,11550700.0,167500.0,52100.0,1030000.0
+water_releases,WATER,Cadmium and compounds (as Cd),5,41,2007,2023,937.54,13.2,5.39,143.0
+air_releases,AIR,Lead and compounds (as Pb),5,14,2009,2018,5998.0,315.5,201.0,787.0
+air_releases,AIR,Nitrous oxide (N2O),5,13,2007,2024,964400.0,76200.0,10400.0,254000.0
+air_releases,AIR,Chlorine and inorganic compounds (as HCl),4,40,2007,2024,702400.0,15950.0,10100.0,47100.0
+air_releases,AIR,Chromium and compounds (as Cr),4,20,2007,2024,3261.0,153.0,107.0,279.0
+air_releases,AIR,Cadmium and compounds (as Cd),4,13,2007,2019,341.0,21.9,12.5,62.7
+pollutant_transfers,TRANSFER,Lead and compounds (as Pb),4,13,2007,2023,524.1,38.2,20.0,69.4
+air_releases,AIR,Hydro-fluorocarbons (HFCS),3,46,2007,2024,73746.0,1505.0,231.0,5040.0
+water_releases,WATER,Chlorides (as total Cl),3,41,2007,2024,832180000.0,20300000.0,2200000.0,37500000.0
+water_releases,WATER,Total nitrogen,3,29,2007,2024,6471600.0,149000.0,56500.0,496000.0
+air_releases,AIR,Di-(2-ethyl hexyl) phthalate (DEHP),3,19,2007,2024,6051.6,75.0,11.1,1980.0
+air_releases,AIR,Nickel and compounds (as Ni),3,18,2007,2024,1801.2,67.2,51.6,230.0
+air_releases,AIR,Copper and compounds (as Cu),3,17,2010,2024,2122.0,117.0,102.0,194.0
+air_releases,AIR,Polycyclic aromatic hydrocarbons (PAHs),3,13,2008,2024,58435.0,1950.0,58.0,14000.0
+pollutant_transfers,TRANSFER,Zinc and compounds (as Zn),3,13,2010,2024,6550.0,460.0,103.0,1230.0
+air_releases,AIR,Arsenic and compounds (as As),3,10,2012,2024,615.7,30.9,20.1,204.0
+air_releases,AIR,PCDD + PCDF (dioxins + furans) (as Teq),3,8,2007,2024,0.005904,0.000433,0.000104,0.00215
+pollutant_transfers,TRANSFER,Arsenic and compounds (as As),3,7,2013,2024,85.38,12.4,5.13,20.0
+air_releases,AIR,Fluorine and inorganic compounds (as HF),3,6,2011,2024,43650.0,7215.0,5610.0,9030.0
+water_releases,WATER,Total phosphorus,2,16,2007,2020,142390.0,7760.0,5260.0,16500.0
+air_releases,AIR,Benzene,2,15,2007,2024,63350.0,4630.0,1260.0,6620.0
+water_releases,WATER,Mercury and compounds (as Hg),2,15,2007,2022,141.27,3.47,2.0,47.0
+pollutant_transfers,TRANSFER,Chlorides (as total Cl),1,18,2007,2024,795400000.0,49150000.0,28300000.0,63800000.0
+air_releases,AIR,Hydrogen cyanide (HCN),1,13,2008,2024,92073.0,2050.0,429.0,18300.0
+air_releases,AIR,Naphthalene,1,11,2011,2024,21884.0,1440.0,104.0,6050.0
+pollutant_transfers,TRANSFER,Nickel and compounds (as Ni),1,11,2012,2024,875.5,83.9,29.3,153.0
+water_releases,WATER,Phenols (as total C),1,10,2008,2022,508.5,42.25,36.0,91.0
+air_releases,AIR,Anthracene,1,9,2013,2024,20621.0,1050.0,185.0,6050.0
+pollutant_transfers,TRANSFER,Cadmium and compounds (as Cd),1,3,2014,2018,20.48,6.5,5.68,8.3
+air_releases,AIR,Chlorofluorocarbons (CFCs),1,2,2017,2018,21.3,10.65,8.8,12.5
+air_releases,AIR,Zinc and compounds (as Zn),1,2,2009,2015,1800.0,900.0,390.0,1410.0
+pollutant_transfers,TRANSFER,Mercury and compounds (as Hg),1,1,2023,2023,1.71,1.71,1.71,1.71
+air_releases,AIR,Non-methane volatile organic compounds (NMVOC),1,1,2007,2007,126000.0,126000.0,126000.0,126000.0
+water_releases,WATER,Polycyclic aromatic hydrocarbons (PAHs),1,1,2020,2020,5.34,5.34,5.34,5.34

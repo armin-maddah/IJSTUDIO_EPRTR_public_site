@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Oder Facility Investigator</title>
+    <link rel="stylesheet" href="assets/app.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Phase 2 static investigator workbench</p>
+          <h1>Oder Facility Investigator</h1>
+        </div>
+        <div class="summary-strip" aria-label="Phase 1 baseline counts">
+          <div><span id="stat-facilities">--</span><small>10 km facilities</small></div>
+          <div><span id="stat-columns">--</span><small>table columns</small></div>
+          <div><span id="stat-hydro">--</span><small>hydro entities</small></div>
+        </div>
+      </header>
+
+      <nav class="tabs" aria-label="Primary">
+        <button class="tab is-active" data-tab="map" type="button">Map</button>
+        <button class="tab" data-tab="lookup" type="button">Facility Lookup</button>
+        <button class="tab" data-tab="report" type="button">Analysis Report</button>
+      </nav>
+
+      <main>
+        <section id="tab-map" class="tab-panel is-active" aria-labelledby="Map">
+          <div class="workbench-grid map-grid">
+            <aside class="filter-rail">
+              <div class="section-title">Triage filters</div>
+              <label>Distance band<select id="map-distance-filter" multiple></select></label>
+              <label>Country<select id="map-country-filter" multiple></select></label>
+              <label>Nearest hydro type<select id="map-hydro-filter" multiple></select></label>
+              <button id="map-reset" class="button secondary" type="button">Reset filters</button>
+              <div class="filter-note">
+                <strong id="map-count">0</strong> visible records from Phase 1 GeoJSON.
+              </div>
+            </aside>
+            <section class="map-stage">
+              <div class="map-toolbar">
+                <span id="map-bounds-label">Folium map with selected hydro boundary</span>
+                <button id="map-fit" class="button compact" type="button">Fit bounds</button>
+              </div>
+              <iframe id="facility-map" title="Folium map of Oder facilities and selected hydro boundary" src="assets/folium_map.html"></iframe>
+            </section>
+            <aside class="detail-panel" id="map-detail">
+              <div class="section-title">Selected facility</div>
+              <p class="muted">Select a point to inspect proximity and nearest hydro-entity metadata.</p>
+            </aside>
+          </div>
+        </section>
+
+        <section id="tab-lookup" class="tab-panel" aria-labelledby="Facility Lookup">
+          <div class="lookup-layout">
+            <aside class="filter-rail lookup-filters">
+              <div class="section-title">Column filters</div>
+              <label>Search all columns<input id="global-search" type="search" placeholder="Facility, pollutant, city, ID"></label>
+              <div id="categorical-filters" class="filter-stack"></div>
+              <details open>
+                <summary>Numeric ranges</summary>
+                <div id="numeric-filters" class="filter-stack"></div>
+              </details>
+              <button id="lookup-reset" class="button secondary" type="button">Clear lookup filters</button>
+            </aside>
+            <section class="table-area">
+              <div class="table-toolbar">
+                <div><strong id="lookup-count">0</strong> matching facilities</div>
+                <div class="toolbar-actions">
+                  <button id="export-filtered" class="button" type="button">Download filtered CSV</button>
+                  <a class="button secondary" href="downloads/oder_facilities_within_10km.csv" download>Download full CSV</a>
+                </div>
+              </div>
+              <div class="table-wrap">
+                <table id="facility-table"></table>
+              </div>
+            </section>
+          </div>
+        </section>
+
+        <section id="tab-report" class="tab-panel report-panel" aria-labelledby="Analysis Report">
+          <div class="report-header">
+            <div>
+              <p class="eyebrow">Auditable Phase 1 summary</p>
+              <h2>Facilities within 10 km of the selected Oder hydro network</h2>
+            </div>
+            <div class="report-links" id="report-links"></div>
+          </div>
+          <div id="report-content" class="report-content"></div>
+        </section>
+      </main>
+    </div>
+    <script src="assets/app.js"></script>
+  </body>
+</html>

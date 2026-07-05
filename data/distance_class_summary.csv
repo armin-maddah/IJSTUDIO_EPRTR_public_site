@@ -1,0 +1,6 @@
+distance_class,facility_count,share
+0-100 m,9,9.1e-05
+100 m - 1 km,318,0.003208
+1-10 km,1284,0.012954
+10-50 km,2842,0.028673
+>50 km / not matched,94665,0.955074

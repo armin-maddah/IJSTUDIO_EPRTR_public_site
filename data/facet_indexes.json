@@ -1,0 +1,1755 @@
+{
+  "annex_activities": {
+    "control": "categorical",
+    "values": [
+      {
+        "count": 330,
+        "value": "7(a)"
+      },
+      {
+        "count": 134,
+        "value": "5(d)"
+      },
+      {
+        "count": 83,
+        "value": "3(a)"
+      },
+      {
+        "count": 81,
+        "value": "2(f)"
+      },
+      {
+        "count": 73,
+        "value": "1(c)"
+      },
+      {
+        "count": 59,
+        "value": "4(a)"
+      },
+      {
+        "count": 56,
+        "value": "5(a)"
+      },
+      {
+        "count": 56,
+        "value": "8(b)"
+      },
+      {
+        "count": 31,
+        "value": "5(f)"
+      },
+      {
+        "count": 30,
+        "value": "3(b)"
+      },
+      {
+        "count": 26,
+        "value": "2(e)"
+      },
+      {
+        "count": 26,
+        "value": "3(g)"
+      },
+      {
+        "count": 26,
+        "value": "9(c)"
+      },
+      {
+        "count": 23,
+        "value": "2(d)"
+      },
+      {
+        "count": 23,
+        "value": "6(b)"
+      },
+      {
+        "count": 22,
+        "value": "8(a)"
+      },
+      {
+        "count": 20,
+        "value": "3(e)"
+      },
+      {
+        "count": 20,
+        "value": "7(a)(i)"
+      },
+      {
+        "count": 18,
+        "value": "5(c)"
+      },
+      {
+        "count": 17,
+        "value": "7(b)"
+      },
+      {
+        "count": 13,
+        "value": "7(a)(ii)"
+      },
+      {
+        "count": 10,
+        "value": "5(e)"
+      },
+      {
+        "count": 10,
+        "value": "8(c)"
+      },
+      {
+        "count": 9,
+        "value": "2(c)"
+      },
+      {
+        "count": 9,
+        "value": "3(c)"
+      },
+      {
+        "count": 9,
+        "value": "4(b)"
+      },
+      {
+        "count": 9,
+        "value": "5(b)"
+      },
+      {
+        "count": 8,
+        "value": "7(a)(iii)"
+      },
+      {
+        "count": 6,
+        "value": "2(b)"
+      },
+      {
+        "count": 6,
+        "value": "5(g)"
+      },
+      {
+        "count": 6,
+        "value": "6(c)"
+      },
+      {
+        "count": 5,
+        "value": "2(e)(ii)"
+      },
+      {
+        "count": 5,
+        "value": "4(c)"
+      },
+      {
+        "count": 4,
+        "value": "1(d)"
+      },
+      {
+        "count": 4,
+        "value": "2(c)(i)"
+      },
+      {
+        "count": 4,
+        "value": "4(e)"
+      },
+      {
+        "count": 3,
+        "value": "4(a)(vii)"
+      },
+      {
+        "count": 3,
+        "value": "4(a)(viii)"
+      },
+      {
+        "count": 3,
+        "value": "4(d)"
+      },
+      {
+        "count": 3,
+        "value": "9(e)"
+      },
+      {
+        "count": 2,
+        "value": "1(b)"
+      },
+      {
+        "count": 2,
+        "value": "1(f)"
+      },
+      {
+        "count": 2,
+        "value": "2(c)(iii)"
+      },
+      {
+        "count": 2,
+        "value": "3(f)"
+      },
+      {
+        "count": 2,
+        "value": "4(a)(ii)"
+      },
+      {
+        "count": 2,
+        "value": "5(c); 5(d)"
+      },
+      {
+        "count": 2,
+        "value": "9(d)"
+      },
+      {
+        "count": 1,
+        "value": "1(a)"
+      },
+      {
+        "count": 1,
+        "value": "4(a)(i)"
+      },
+      {
+        "count": 1,
+        "value": "4(a)(iv)"
+      },
+      {
+        "count": 1,
+        "value": "4(a)(ix)"
+      },
+      {
+        "count": 1,
+        "value": "4(a); 4(d)"
+      },
+      {
+        "count": 1,
+        "value": "4(b)(i)"
+      },
+      {
+        "count": 1,
+        "value": "4(b)(v)"
+      },
+      {
+        "count": 1,
+        "value": "8(b)(ii)"
+      }
+    ]
+  },
+  "bat_conclusions": {
+    "control": "multi_value",
+    "values": [
+      {
+        "count": 486,
+        "value": "BATCNOTYETADOPTED"
+      },
+      {
+        "count": 407,
+        "value": "NOBATCAPPLICABLE"
+      },
+      {
+        "count": 287,
+        "value": "IRPP"
+      },
+      {
+        "count": 79,
+        "value": "WT"
+      },
+      {
+        "count": 65,
+        "value": "LCP"
+      },
+      {
+        "count": 16,
+        "value": "LVOC"
+      },
+      {
+        "count": 15,
+        "value": "GLS"
+      },
+      {
+        "count": 15,
+        "value": "NFM"
+      },
+      {
+        "count": 12,
+        "value": "IS"
+      },
+      {
+        "count": 12,
+        "value": "PP"
+      },
+      {
+        "count": 9,
+        "value": "CLM"
+      },
+      {
+        "count": 9,
+        "value": "WI"
+      },
+      {
+        "count": 8,
+        "value": "FDM"
+      },
+      {
+        "count": 6,
+        "value": "STS"
+      },
+      {
+        "count": 4,
+        "value": "CWW"
+      },
+      {
+        "count": 4,
+        "value": "STM"
+      },
+      {
+        "count": 3,
+        "value": "CWW, LVOC"
+      },
+      {
+        "count": 3,
+        "value": "WBP"
+      },
+      {
+        "count": 2,
+        "value": "FMP"
+      },
+      {
+        "count": 2,
+        "value": "LCP, WI"
+      },
+      {
+        "count": 2,
+        "value": "SA"
+      },
+      {
+        "count": 1,
+        "value": "FDM, LVOC"
+      },
+      {
+        "count": 1,
+        "value": "LCP, LCP"
+      },
+      {
+        "count": 1,
+        "value": "LCP, LCP, LCP"
+      },
+      {
+        "count": 1,
+        "value": "REF"
+      },
+      {
+        "count": 1,
+        "value": "WGC"
+      },
+      {
+        "count": 1,
+        "value": "WI, WT"
+      }
+    ]
+  },
+  "country_name": {
+    "control": "categorical",
+    "values": [
+      {
+        "count": 1270,
+        "value": "Poland"
+      },
+      {
+        "count": 193,
+        "value": "Germany"
+      },
+      {
+        "count": 147,
+        "value": "Czechia"
+      },
+      {
+        "count": 1,
+        "value": "United Kingdom"
+      }
+    ]
+  },
+  "distance_class": {
+    "control": "categorical",
+    "values": [
+      {
+        "count": 1284,
+        "value": "1-10 km"
+      },
+      {
+        "count": 318,
+        "value": "100 m - 1 km"
+      },
+      {
+        "count": 9,
+        "value": "0-100 m"
+      }
+    ]
+  },
+  "ied_activity_names": {
+    "control": "multi_value",
+    "values": [
+      {
+        "count": 314,
+        "value": "Intensive rearing of poultry with more than 40,000 places for poultry"
+      },
+      {
+        "count": 206,
+        "value": "Combustion of fuels in installations with a total rated thermal input of 50 MW or more"
+      },
+      {
+        "count": 71,
+        "value": "Landfills, as defined in Article 2(g) of Council Directive 1999/31/EC of 26 April 1999 on the landfill of waste, receiving more than 10 tonnes of waste per day or with a total capacity exceeding 25,000 tonnes, excluding landfills of inert waste"
+      },
+      {
+        "count": 71,
+        "value": "Surface treatment of metals or plastic materials using an electrolytic or chemical process where the volume of the treatment vats exceeds 30 m3"
+      },
+      {
+        "count": 38,
+        "value": "Production of organic chemicals: simple hydrocarbons (linear or cyclic, saturated or unsaturated, aliphatic or aromatic)"
+      },
+      {
+        "count": 31,
+        "value": "Disposal of non-hazardous waste with a capacity exceeding 50 tonnes per day involving one or more of the following activities."
+      },
+      {
+        "count": 31,
+        "value": "Intensive rearing of pigs with more than 2,000 places for production pigs (over 30 kg)"
+      },
+      {
+        "count": 28,
+        "value": "Recovery, or a mix of recovery and disposal, of non-hazardous waste with a capacity exceeding 75 tonnes per day involving biological treatment, excluding activities covered by Directive 91/271/EEC"
+      },
+      {
+        "count": 28,
+        "value": "Temporary storage of hazardous waste not covered under point 5.4 pending any of the activities listed in points 5.1, 5.2, 5.4 and 5.6 with a total capacity exceeding 50 tonnes, excluding temporary storage, pending collection, on the site where the waste is generated"
+      },
+      {
+        "count": 27,
+        "value": "Processing of non-ferrous metals: melting, including the alloyage, of non-ferrous metals, including recovered products and operation of non-ferrous metal foundries, with a melting capacity exceeding 4 tonnes per day for lead and cadmium or 20 tonnes per day for all other metals."
+      },
+      {
+        "count": 26,
+        "value": "Production of cement clinker in rotary kilns with a production capacity exceeding 500 tonnes per day or in other kilns with a production capacity exceeding 50 tonnes per day"
+      },
+      {
+        "count": 23,
+        "value": "Manufacture of ceramic products by firing, in particular roofing tiles, bricks, refractory bricks, tiles, stoneware or porcelain with a production capacity exceeding 75 tonnes per day and/or with a kiln capacity exceeding 4 m3 and with a setting density per kiln exceeding 300 kg/m3"
+      },
+      {
+        "count": 22,
+        "value": "Surface treatment of substances, objects or products using organic solvents, in particular for dressing, printing, coating, degreasing, waterproofing, sizing, painting, cleaning or impregnating, with an organic solvent consumption capacity of more than 150 kg per hour or more than 200 tonnes per year"
+      },
+      {
+        "count": 22,
+        "value": "Treatment and processing, other than exclusively packaging, of the following raw materials, whether previously processed or unprocessed, intended for the production of food or feed from only vegetable raw materials with a finished product production capacity greater than 300 tonnes per day or 600 tonnes per day where the installation operates for a period of no more than 90 consecutive days in any year"
+      },
+      {
+        "count": 21,
+        "value": "Operation of ferrous metal foundries with a production capacity exceeding 20 tonnes per day"
+      },
+      {
+        "count": 20,
+        "value": "Production of organic chemicals: plastic materials (polymers, synthetic fibres and cellulose-based fibres)"
+      },
+      {
+        "count": 16,
+        "value": "Disposal or recovery of hazardous waste with a capacity exceeding 10 tonnes per day involving one or more of the following activities."
+      },
+      {
+        "count": 16,
+        "value": "Disposal or recovery of hazardous waste with a capacity exceeding 10 tonnes per day involving physico-chemical treatment"
+      },
+      {
+        "count": 16,
+        "value": "Operating slaughterhouses with a carcass production capacity greater than 50 tonnes per day"
+      },
+      {
+        "count": 16,
+        "value": "Production in industrial installations of paper or card board with a production capacity exceeding 20 tonnes per day"
+      },
+      {
+        "count": 15,
+        "value": "Intensive rearing of pigs with more than 750 places for sows"
+      },
+      {
+        "count": 15,
+        "value": "Processing of ferrous metals: application of protective fused metal coats with an input exceeding 2 tonnes of crude steel per hour."
+      },
+      {
+        "count": 15,
+        "value": "Refining of mineral oil and gas"
+      },
+      {
+        "count": 14,
+        "value": "Manufacture of glass including glass fibre with a melting capacity exceeding 20 tonnes per day"
+      },
+      {
+        "count": 13,
+        "value": "Disposal or recycling of animal carcases or animal waste with a treatment capacity exceeding 10 tonnes per day"
+      },
+      {
+        "count": 13,
+        "value": "Independently operated treatment of waste water not covered by Directive 91/271/EEC and discharged by an installation covered by Chapter II of Directive 2010/75/EU"
+      },
+      {
+        "count": 12,
+        "value": "Treatment and processing, other than exclusively packaging, of the following raw materials, whether previously processed or unprocessed, intended for the production of food or feed from only animal raw materials (other than exclusively milk) with a finished product production capacity greater than 75 tonnes per day"
+      },
+      {
+        "count": 10,
+        "value": "Disposal or recovery of waste in waste incineration plants or in waste co-incineration plants for non-hazardous waste with a capacity exceeding 3 tonnes per hour"
+      },
+      {
+        "count": 10,
+        "value": "Treatment and processing, other than exclusively packaging, of the following raw materials, whether previously processed or unprocessed, intended for the production of food or feed from animal and vegetable raw materials, both in combined and separate products, with a finished product production capacity in tonnes per day greater than 75 if A is equal to 10 or more or, [300- (22,5 ? A)] in any other case, where ?A? is the portion of animal material (in percent of weight) of the finished product production capacity"
+      },
+      {
+        "count": 9,
+        "value": "Disposal or recovery of hazardous waste with a capacity exceeding 10 tonnes per day involving biological treatment"
+      },
+      {
+        "count": 9,
+        "value": "Production of inorganic chemicals: gases, such as ammonia, chlorine or hydrogen chloride, fluorine or hydrogen fluoride, carbon oxides, sulphur compounds, nitrogen oxides, hydrogen, sulphur dioxide, carbonyl chloride"
+      },
+      {
+        "count": 9,
+        "value": "Production of organic chemicals: oxygen-containing hydrocarbons such as alcohols, aldehydes, ketones, carboxylic acids, esters and mixtures of esters, acetates, ethers, peroxides and epoxy resins"
+      },
+      {
+        "count": 9,
+        "value": "Production of pig iron or steel (primary or secondary fusion) including continuous casting, with a capacity exceeding 2.5 tonnes per hour"
+      },
+      {
+        "count": 8,
+        "value": "Production of lime in kilns with a production capacity exceeding 50 tonnes per day"
+      },
+      {
+        "count": 8,
+        "value": "Recovery, or a mix of recovery and disposal, of non-hazardous waste with a capacity exceeding 75 tonnes per day involving one or more of the following activities, and excluding activities covered by Directive 91/271/EEC."
+      },
+      {
+        "count": 8,
+        "value": "Treatment and processing of milk only, the quantity of milk received being greater than 200 tonnes per day (average value on an annual basis)"
+      },
+      {
+        "count": 7,
+        "value": "Processing of ferrous metals: operation of hot-rolling mills with a capacity exceeding 20 tonnes of crude steel per hour"
+      },
+      {
+        "count": 7,
+        "value": "Recovery, or a mix of recovery and disposal, of non-hazardous waste with a capacity exceeding 75 tonnes per day involving the  treatment of slags and ashes, excluding activities covered by Directive 91/271/EEC"
+      },
+      {
+        "count": 5,
+        "value": "Disposal of non-hazardous waste with a capacity exceeding 50 tonnes per day involving biological treatment, excluding activities covered by Council Directive 91/271/EEC of 21 May 1991 concerning urban waste-water treatment"
+      },
+      {
+        "count": 5,
+        "value": "Preservation of wood and wood products with chemicals with a production capacity exceeding 75 m3 per day other than exclusively treating against sapstain"
+      },
+      {
+        "count": 5,
+        "value": "Production of coke"
+      },
+      {
+        "count": 5,
+        "value": "Production of inorganic chemicals: non-metals, metal oxides or other inorganic compounds such as calcium carbide, silicon, silicon carbide"
+      },
+      {
+        "count": 5,
+        "value": "Production of plant protection products or of biocides"
+      },
+      {
+        "count": 4,
+        "value": "Disposal or recovery of hazardous waste with a capacity exceeding 10 tonnes per day involving blending or mixing prior to submission to any of the other activities listed in points 5.1 and 5.2"
+      },
+      {
+        "count": 4,
+        "value": "Disposal or recovery of hazardous waste with a capacity exceeding 10 tonnes per day involving repackaging prior to submission to any of the other activities listed in points 5.1 and 5.2"
+      },
+      {
+        "count": 4,
+        "value": "Disposal or recovery of waste in waste incineration plants or in waste co-incineration plants for hazardous waste with a capacity exceeding 10 tonnes per day"
+      },
+      {
+        "count": 4,
+        "value": "Production of inorganic chemicals: acids, such as chromic acid, hydrofluoric acid, phosphoric acid, nitric acid, hydrochloric acid, sulphuric acid, oleum, sulphurous acids"
+      },
+      {
+        "count": 4,
+        "value": "Production of phosphorous, nitrogen or potassium based fertilisers (simple or compound fertilisers)"
+      },
+      {
+        "count": 4,
+        "value": "Recovery, or a mix of recovery and disposal, of non-hazardous waste with a capacity exceeding 75 tonnes per day involving the pre-treatment of waste for incineration or co-incineration, excluding activities covered by Directive 91/271/EEC"
+      },
+      {
+        "count": 3,
+        "value": "Melting mineral substances including the production of mineral fibres with a melting capacity exceeding 20 tonnes per day"
+      },
+      {
+        "count": 3,
+        "value": "Processing of non-ferrous metals: production of non-ferrous crude metals from ore, concentrates or secondary raw materials by metallurgical, chemical or electrolytic processes"
+      },
+      {
+        "count": 3,
+        "value": "Production in industrial installations with a production capacity exceeding 600 m3 per day of one or more of the following wood-based panels: oriented strand board, particleboard or fibreboard"
+      },
+      {
+        "count": 3,
+        "value": "Production of carbon (hard-burnt coal) or electrographite by means of incineration or graphitisation"
+      },
+      {
+        "count": 3,
+        "value": "Production of organic chemicals: surface-active agents and surfactants"
+      },
+      {
+        "count": 3,
+        "value": "Production of pharmaceutical products including intermediates"
+      },
+      {
+        "count": 3,
+        "value": "Recovery, or a mix of recovery and disposal, of non-hazardous waste with a capacity exceeding 75 tonnes per day involving treatment in shredders of metal waste, including waste electrical and electronic equipment and end-of-life vehicles and their components, and excluding activities covered by Directive 91/271/EEC."
+      },
+      {
+        "count": 2,
+        "value": "Disposal of non-hazardous waste with a capacity exceeding 50 tonnes per day involving the pre-treatment of waste for incineration or co-incineration, excluding activities covered by Council Directive 91/271/EEC of 21 May 1991 concerning urban waste-water treatment"
+      },
+      {
+        "count": 2,
+        "value": "Gasification or liquefaction of coal"
+      },
+      {
+        "count": 2,
+        "value": "Metal ore (including sulphide ore) roasting or sintering"
+      },
+      {
+        "count": 2,
+        "value": "Production of organic chemicals: sulphurous hydrocarbons"
+      },
+      {
+        "count": 1,
+        "value": "Capture of CO2 streams from installations covered by Directive 2010/75/EU for the purposes of geological storage pursuant to Directive 2009/31/EC"
+      },
+      {
+        "count": 1,
+        "value": "Disposal of non-hazardous waste with a capacity exceeding 50 tonnes per day involving physico-chemical treatment ,excluding activities covered by Council Directive 91/271/EEC of 21 May 1991 concerning urban waste-water treatment"
+      },
+      {
+        "count": 1,
+        "value": "Disposal or recovery of hazardous waste with a capacity exceeding 10 tonnes per day involving recycling/reclamation of inorganic materials other than metals or metal compounds"
+      },
+      {
+        "count": 1,
+        "value": "Disposal or recovery of hazardous waste with a capacity exceeding 10 tonnes per day involving solvent reclamation/regeneration"
+      },
+      {
+        "count": 1,
+        "value": "Production in industrial installations of pulp from timber or other fibrous materials"
+      },
+      {
+        "count": 1,
+        "value": "Production of organic chemicals: organometallic compounds"
+      },
+      {
+        "count": 1,
+        "value": "Production of organic chemicals: synthetic rubbers"
+      }
+    ]
+  },
+  "ied_statuses": {
+    "control": "multi_value",
+    "values": [
+      {
+        "count": 1134,
+        "value": "functional"
+      },
+      {
+        "count": 71,
+        "value": "decommissioned"
+      },
+      {
+        "count": 21,
+        "value": "disused"
+      },
+      {
+        "count": 8,
+        "value": "notRegulated"
+      }
+    ]
+  },
+  "latest_pollutants": {
+    "control": "multi_value",
+    "values": [
+      {
+        "count": 120,
+        "value": "Ammonia (NH3)"
+      },
+      {
+        "count": 78,
+        "value": "Zinc and compounds (as Zn)"
+      },
+      {
+        "count": 77,
+        "value": "Nitrogen oxides (NOX)"
+      },
+      {
+        "count": 67,
+        "value": "Sulphur oxides (SOX)"
+      },
+      {
+        "count": 63,
+        "value": "Carbon dioxide (CO2)"
+      },
+      {
+        "count": 52,
+        "value": "Methane (CH4)"
+      },
+      {
+        "count": 49,
+        "value": "Nickel and compounds (as Ni)"
+      },
+      {
+        "count": 44,
+        "value": "Copper and compounds (as Cu)"
+      },
+      {
+        "count": 42,
+        "value": "Total organic carbon(as total C or COD/3) (TOC)"
+      },
+      {
+        "count": 34,
+        "value": "Mercury and compounds (as Hg)"
+      },
+      {
+        "count": 28,
+        "value": "Total nitrogen"
+      },
+      {
+        "count": 27,
+        "value": "Lead and compounds (as Pb)"
+      },
+      {
+        "count": 27,
+        "value": "Phenols (as total C)"
+      },
+      {
+        "count": 26,
+        "value": "Arsenic and compounds (as As)"
+      },
+      {
+        "count": 24,
+        "value": "Chlorine and inorganic compounds (as HCl)"
+      },
+      {
+        "count": 24,
+        "value": "Hydro-fluorocarbons (HFCS)"
+      },
+      {
+        "count": 23,
+        "value": "Particulate matter (PM10)"
+      },
+      {
+        "count": 19,
+        "value": "Polycyclic aromatic hydrocarbons (PAHs)"
+      },
+      {
+        "count": 18,
+        "value": "Carbon monoxide (CO)"
+      },
+      {
+        "count": 18,
+        "value": "Chlorides (as total Cl)"
+      },
+      {
+        "count": 18,
+        "value": "Total phosphorus"
+      },
+      {
+        "count": 17,
+        "value": "Fluorides (as total F)"
+      },
+      {
+        "count": 16,
+        "value": "Chromium and compounds (as Cr)"
+      },
+      {
+        "count": 14,
+        "value": "Cadmium and compounds (as Cd)"
+      },
+      {
+        "count": 13,
+        "value": "Hydrochlorofluorocarbons (HCFCs)"
+      },
+      {
+        "count": 11,
+        "value": "Nitrous oxide (N2O)"
+      },
+      {
+        "count": 11,
+        "value": "Non-methane volatile organic compounds (NMVOC)"
+      },
+      {
+        "count": 8,
+        "value": "Carbon dioxide (CO2) excluding biomass"
+      },
+      {
+        "count": 8,
+        "value": "Cyanides (as total CN)"
+      },
+      {
+        "count": 7,
+        "value": "Halogenated organic compounds (as AOX)"
+      },
+      {
+        "count": 5,
+        "value": "Fluorine and inorganic compounds (as HF)"
+      },
+      {
+        "count": 4,
+        "value": "Benzene"
+      },
+      {
+        "count": 4,
+        "value": "Fluoranthene"
+      },
+      {
+        "count": 4,
+        "value": "Hydrogen cyanide (HCN)"
+      },
+      {
+        "count": 4,
+        "value": "PCDD + PCDF (dioxins + furans) (as Teq)"
+      },
+      {
+        "count": 4,
+        "value": "Trichloromethane"
+      },
+      {
+        "count": 3,
+        "value": "Di-(2-ethyl hexyl) phthalate (DEHP)"
+      },
+      {
+        "count": 2,
+        "value": "Dichloromethane (DCM)"
+      },
+      {
+        "count": 2,
+        "value": "Naphthalene"
+      },
+      {
+        "count": 1,
+        "value": "Anthracene"
+      },
+      {
+        "count": 1,
+        "value": "Asbestos"
+      },
+      {
+        "count": 1,
+        "value": "Benzo(g,h,i)perylene"
+      },
+      {
+        "count": 1,
+        "value": "CONFIDENTIAL"
+      },
+      {
+        "count": 1,
+        "value": "Halons"
+      },
+      {
+        "count": 1,
+        "value": "Nonylphenol and Nonylphenol ethoxylates"
+      },
+      {
+        "count": 1,
+        "value": "Octylphenols and Octylphenol ethoxylates"
+      },
+      {
+        "count": 1,
+        "value": "Perfluorocarbons (PFCs)"
+      },
+      {
+        "count": 1,
+        "value": "Tetrachloroethylene"
+      },
+      {
+        "count": 1,
+        "value": "Tetrachloromethane (TCM)"
+      },
+      {
+        "count": 1,
+        "value": "Trichlorobenzenes (TCB)"
+      },
+      {
+        "count": 1,
+        "value": "Xylenes"
+      }
+    ]
+  },
+  "lcp_feature_types": {
+    "control": "multi_value",
+    "values": [
+      {
+        "count": 140,
+        "value": "Biomass"
+      },
+      {
+        "count": 140,
+        "value": "Coal"
+      },
+      {
+        "count": 140,
+        "value": "DUST"
+      },
+      {
+        "count": 140,
+        "value": "LCPCharacteristics"
+      },
+      {
+        "count": 140,
+        "value": "Lignite"
+      },
+      {
+        "count": 140,
+        "value": "LiquidFuels"
+      },
+      {
+        "count": 140,
+        "value": "NaturalGas"
+      },
+      {
+        "count": 140,
+        "value": "NOX"
+      },
+      {
+        "count": 140,
+        "value": "OtherGases"
+      },
+      {
+        "count": 140,
+        "value": "OtherSolidFuels"
+      },
+      {
+        "count": 140,
+        "value": "Peat"
+      },
+      {
+        "count": 140,
+        "value": "SO2"
+      }
+    ]
+  },
+  "lcp_units": {
+    "control": "multi_value",
+    "values": [
+      {
+        "count": 140,
+        "value": "hours"
+      },
+      {
+        "count": 140,
+        "value": "MW"
+      },
+      {
+        "count": 140,
+        "value": "TJ"
+      },
+      {
+        "count": 140,
+        "value": "tonnes"
+      }
+    ]
+  },
+  "nearest_canal_line_id": {
+    "control": "categorical",
+    "values": [
+      {
+        "count": 169,
+        "value": "CL36022977"
+      },
+      {
+        "count": 93,
+        "value": "CL36022926"
+      },
+      {
+        "count": 91,
+        "value": "CL36022972"
+      },
+      {
+        "count": 54,
+        "value": "CL36022948"
+      },
+      {
+        "count": 53,
+        "value": "CL36022956"
+      },
+      {
+        "count": 50,
+        "value": "CL36022978"
+      },
+      {
+        "count": 39,
+        "value": "CL36022968"
+      },
+      {
+        "count": 36,
+        "value": "CL36022992"
+      },
+      {
+        "count": 34,
+        "value": "CL36022927"
+      },
+      {
+        "count": 34,
+        "value": "CL36022985"
+      },
+      {
+        "count": 31,
+        "value": "CL36022994"
+      },
+      {
+        "count": 30,
+        "value": "CL36022973"
+      },
+      {
+        "count": 30,
+        "value": "CL36022996"
+      },
+      {
+        "count": 29,
+        "value": "CL36022940"
+      },
+      {
+        "count": 28,
+        "value": "CL36022935"
+      },
+      {
+        "count": 26,
+        "value": "CL36022938"
+      },
+      {
+        "count": 25,
+        "value": "CL36022976"
+      },
+      {
+        "count": 24,
+        "value": "CL36022975"
+      },
+      {
+        "count": 22,
+        "value": "CL36022971"
+      },
+      {
+        "count": 22,
+        "value": "CL36022987"
+      },
+      {
+        "count": 17,
+        "value": "CL36022970"
+      },
+      {
+        "count": 17,
+        "value": "CL36023002"
+      },
+      {
+        "count": 16,
+        "value": "CL36022991"
+      },
+      {
+        "count": 15,
+        "value": "CL36022944"
+      },
+      {
+        "count": 15,
+        "value": "CL36022953"
+      },
+      {
+        "count": 15,
+        "value": "CL36022958"
+      },
+      {
+        "count": 13,
+        "value": "CL36022984"
+      },
+      {
+        "count": 12,
+        "value": "CL36022934"
+      },
+      {
+        "count": 12,
+        "value": "CL36022939"
+      },
+      {
+        "count": 12,
+        "value": "CL36022954"
+      },
+      {
+        "count": 12,
+        "value": "CL36022962"
+      },
+      {
+        "count": 12,
+        "value": "CL36022983"
+      },
+      {
+        "count": 10,
+        "value": "CL36022936"
+      },
+      {
+        "count": 10,
+        "value": "CL36022990"
+      },
+      {
+        "count": 10,
+        "value": "CL36022997"
+      },
+      {
+        "count": 9,
+        "value": "CL36022967"
+      },
+      {
+        "count": 9,
+        "value": "CL36023001"
+      },
+      {
+        "count": 8,
+        "value": "CL36022993"
+      },
+      {
+        "count": 7,
+        "value": "CL36022930"
+      },
+      {
+        "count": 7,
+        "value": "CL36022941"
+      },
+      {
+        "count": 7,
+        "value": "CL36023000"
+      },
+      {
+        "count": 6,
+        "value": "CL36022946"
+      },
+      {
+        "count": 6,
+        "value": "CL36022955"
+      },
+      {
+        "count": 6,
+        "value": "CL36022960"
+      },
+      {
+        "count": 6,
+        "value": "CL36022995"
+      },
+      {
+        "count": 4,
+        "value": "CL36022925"
+      },
+      {
+        "count": 4,
+        "value": "CL36022963"
+      },
+      {
+        "count": 4,
+        "value": "CL36022969"
+      },
+      {
+        "count": 4,
+        "value": "CL36022999"
+      },
+      {
+        "count": 3,
+        "value": "CL36022933"
+      },
+      {
+        "count": 3,
+        "value": "CL36022965"
+      },
+      {
+        "count": 2,
+        "value": "CL36022928"
+      },
+      {
+        "count": 2,
+        "value": "CL36022966"
+      },
+      {
+        "count": 2,
+        "value": "CL36022986"
+      },
+      {
+        "count": 1,
+        "value": "CL36022937"
+      },
+      {
+        "count": 1,
+        "value": "CL36022947"
+      },
+      {
+        "count": 1,
+        "value": "CL36022952"
+      },
+      {
+        "count": 1,
+        "value": "CL36022957"
+      },
+      {
+        "count": 1,
+        "value": "CL36022961"
+      },
+      {
+        "count": 1,
+        "value": "CL36022988"
+      },
+      {
+        "count": 1,
+        "value": "CL36022998"
+      },
+      {
+        "count": 1,
+        "value": "CL36023004"
+      }
+    ]
+  },
+  "nearest_canal_line_source_layer": {
+    "control": "categorical",
+    "values": [
+      {
+        "count": 1225,
+        "value": "Canals_l"
+      }
+    ]
+  },
+  "nearest_coastal_polygon_id": {
+    "control": "categorical",
+    "values": [
+      {
+        "count": 59,
+        "value": "CO36000001"
+      },
+      {
+        "count": 19,
+        "value": "CO36000002"
+      },
+      {
+        "count": 9,
+        "value": "CO36000003"
+      },
+      {
+        "count": 1,
+        "value": "CO36000004"
+      }
+    ]
+  },
+  "nearest_coastal_polygon_name": {
+    "control": "categorical",
+    "values": [
+      {
+        "count": 59,
+        "value": "PLCWIIIWB9"
+      },
+      {
+        "count": 19,
+        "value": "PLCWIIWB8"
+      },
+      {
+        "count": 9,
+        "value": "PLCWIIIWB7"
+      },
+      {
+        "count": 1,
+        "value": "PLCWIIWB6W"
+      }
+    ]
+  },
+  "nearest_coastal_polygon_source_layer": {
+    "control": "categorical",
+    "values": [
+      {
+        "count": 88,
+        "value": "Coastal_p"
+      }
+    ]
+  },
+  "nearest_hydro_basin_district": {
+    "control": "categorical",
+    "values": [
+      {
+        "count": 15,
+        "value": "Oder"
+      }
+    ]
+  },
+  "nearest_hydro_dfdd": {
+    "control": "categorical",
+    "values": [
+      {
+        "count": 1310,
+        "value": "BH140"
+      },
+      {
+        "count": 286,
+        "value": "BH020"
+      },
+      {
+        "count": 15,
+        "value": "SA010"
+      }
+    ]
+  },
+  "nearest_hydro_entity_type": {
+    "control": "categorical",
+    "values": [
+      {
+        "count": 1310,
+        "value": "major_river_line"
+      },
+      {
+        "count": 286,
+        "value": "canal_line"
+      },
+      {
+        "count": 15,
+        "value": "coastal_polygon"
+      }
+    ]
+  },
+  "nearest_hydro_rex": {
+    "control": "categorical",
+    "values": [
+      {
+        "count": 1229,
+        "value": "PL"
+      },
+      {
+        "count": 127,
+        "value": "CZ"
+      },
+      {
+        "count": 113,
+        "value": "DE/PL"
+      },
+      {
+        "count": 108,
+        "value": "DE"
+      },
+      {
+        "count": 19,
+        "value": "CZ/PL"
+      }
+    ]
+  },
+  "nearest_hydro_source_layer": {
+    "control": "categorical",
+    "values": [
+      {
+        "count": 1310,
+        "value": "River_Net_l"
+      },
+      {
+        "count": 286,
+        "value": "Canals_l"
+      },
+      {
+        "count": 15,
+        "value": "Coastal_p"
+      }
+    ]
+  },
+  "nearest_major_river_line_source_layer": {
+    "control": "categorical",
+    "values": [
+      {
+        "count": 1610,
+        "value": "River_Net_l"
+      }
+    ]
+  },
+  "pollutants": {
+    "control": "multi_value",
+    "values": [
+      {
+        "count": 132,
+        "value": "Ammonia (NH3)"
+      },
+      {
+        "count": 118,
+        "value": "Zinc and compounds (as Zn)"
+      },
+      {
+        "count": 103,
+        "value": "Nitrogen oxides (NOX)"
+      },
+      {
+        "count": 97,
+        "value": "Sulphur oxides (SOX)"
+      },
+      {
+        "count": 89,
+        "value": "Nickel and compounds (as Ni)"
+      },
+      {
+        "count": 81,
+        "value": "Lead and compounds (as Pb)"
+      },
+      {
+        "count": 81,
+        "value": "Particulate matter (PM10)"
+      },
+      {
+        "count": 79,
+        "value": "Carbon dioxide (CO2)"
+      },
+      {
+        "count": 77,
+        "value": "Copper and compounds (as Cu)"
+      },
+      {
+        "count": 74,
+        "value": "Mercury and compounds (as Hg)"
+      },
+      {
+        "count": 66,
+        "value": "Arsenic and compounds (as As)"
+      },
+      {
+        "count": 62,
+        "value": "Cadmium and compounds (as Cd)"
+      },
+      {
+        "count": 60,
+        "value": "Chlorine and inorganic compounds (as HCl)"
+      },
+      {
+        "count": 60,
+        "value": "Total organic carbon(as total C or COD/3) (TOC)"
+      },
+      {
+        "count": 57,
+        "value": "Chromium and compounds (as Cr)"
+      },
+      {
+        "count": 55,
+        "value": "Methane (CH4)"
+      },
+      {
+        "count": 55,
+        "value": "Phenols (as total C)"
+      },
+      {
+        "count": 52,
+        "value": "Total nitrogen"
+      },
+      {
+        "count": 44,
+        "value": "Polycyclic aromatic hydrocarbons (PAHs)"
+      },
+      {
+        "count": 39,
+        "value": "Hydro-fluorocarbons (HFCS)"
+      },
+      {
+        "count": 38,
+        "value": "Hydrochlorofluorocarbons (HCFCs)"
+      },
+      {
+        "count": 36,
+        "value": "Total phosphorus"
+      },
+      {
+        "count": 34,
+        "value": "Carbon monoxide (CO)"
+      },
+      {
+        "count": 26,
+        "value": "Chlorides (as total Cl)"
+      },
+      {
+        "count": 24,
+        "value": "Fluorine and inorganic compounds (as HF)"
+      },
+      {
+        "count": 23,
+        "value": "Fluorides (as total F)"
+      },
+      {
+        "count": 23,
+        "value": "Nitrous oxide (N2O)"
+      },
+      {
+        "count": 23,
+        "value": "PCDD + PCDF (dioxins + furans) (as Teq)"
+      },
+      {
+        "count": 18,
+        "value": "Benzene"
+      },
+      {
+        "count": 16,
+        "value": "Non-methane volatile organic compounds (NMVOC)"
+      },
+      {
+        "count": 14,
+        "value": "Cyanides (as total CN)"
+      },
+      {
+        "count": 13,
+        "value": "Carbon dioxide (CO2) excluding biomass"
+      },
+      {
+        "count": 12,
+        "value": "Halogenated organic compounds (as AOX)"
+      },
+      {
+        "count": 11,
+        "value": "Di-(2-ethyl hexyl) phthalate (DEHP)"
+      },
+      {
+        "count": 11,
+        "value": "Trichloromethane"
+      },
+      {
+        "count": 10,
+        "value": "Fluoranthene"
+      },
+      {
+        "count": 7,
+        "value": "Naphthalene"
+      },
+      {
+        "count": 6,
+        "value": "Hydrogen cyanide (HCN)"
+      },
+      {
+        "count": 5,
+        "value": "Dichloromethane (DCM)"
+      },
+      {
+        "count": 5,
+        "value": "Nonylphenol and Nonylphenol ethoxylates"
+      },
+      {
+        "count": 5,
+        "value": "Tetrachloroethylene"
+      },
+      {
+        "count": 5,
+        "value": "Tetrachloromethane (TCM)"
+      },
+      {
+        "count": 4,
+        "value": "Trichloroethylene (TRI)"
+      },
+      {
+        "count": 3,
+        "value": "Benzo(g,h,i)perylene"
+      },
+      {
+        "count": 3,
+        "value": "CONFIDENTIAL"
+      },
+      {
+        "count": 3,
+        "value": "Diuron"
+      },
+      {
+        "count": 3,
+        "value": "Octylphenols and Octylphenol ethoxylates"
+      },
+      {
+        "count": 3,
+        "value": "Toluene"
+      },
+      {
+        "count": 2,
+        "value": "1,2-dichloroethane (DCE-1,2)"
+      },
+      {
+        "count": 2,
+        "value": "Anthracene"
+      },
+      {
+        "count": 2,
+        "value": "Chlorofluorocarbons (CFCs)"
+      },
+      {
+        "count": 2,
+        "value": "Ethylene oxide"
+      },
+      {
+        "count": 2,
+        "value": "Hexachlorobenzene (HCB)"
+      },
+      {
+        "count": 2,
+        "value": "Organotin compounds (as total Sn)"
+      },
+      {
+        "count": 2,
+        "value": "Pentachlorophenol (PCP)"
+      },
+      {
+        "count": 2,
+        "value": "Tributyltin and compounds"
+      },
+      {
+        "count": 2,
+        "value": "Trichlorobenzenes (TCB)"
+      },
+      {
+        "count": 2,
+        "value": "Xylenes"
+      },
+      {
+        "count": 1,
+        "value": "Aldrin"
+      },
+      {
+        "count": 1,
+        "value": "Asbestos"
+      },
+      {
+        "count": 1,
+        "value": "Dieldrin"
+      },
+      {
+        "count": 1,
+        "value": "Endrin"
+      },
+      {
+        "count": 1,
+        "value": "Halons"
+      },
+      {
+        "count": 1,
+        "value": "Hexachlorobutadiene (HCBD)"
+      },
+      {
+        "count": 1,
+        "value": "Isodrin"
+      },
+      {
+        "count": 1,
+        "value": "Isoproturon"
+      },
+      {
+        "count": 1,
+        "value": "Perfluorocarbons (PFCs)"
+      },
+      {
+        "count": 1,
+        "value": "Simazine"
+      },
+      {
+        "count": 1,
+        "value": "Triphenyltin and compounds"
+      },
+      {
+        "count": 1,
+        "value": "Vinyl chloride"
+      }
+    ]
+  },
+  "sector_names": {
+    "control": "categorical",
+    "values": [
+      {
+        "count": 171,
+        "value": "Waste and wastewater management"
+      },
+      {
+        "count": 149,
+        "value": "Production and processing of metals"
+      },
+      {
+        "count": 132,
+        "value": "Intensive livestock production and aquaculture"
+      },
+      {
+        "count": 126,
+        "value": "Mineral industry"
+      },
+      {
+        "count": 79,
+        "value": "Chemical industry"
+      },
+      {
+        "count": 78,
+        "value": "Energy sector"
+      },
+      {
+        "count": 66,
+        "value": "Animal and vegetable products from the food and beverage sector"
+      },
+      {
+        "count": 30,
+        "value": "Other activities"
+      },
+      {
+        "count": 22,
+        "value": "Paper and wood production and processing"
+      }
+    ]
+  },
+  "source_tables": {
+    "control": "multi_value",
+    "values": [
+      {
+        "count": 1153,
+        "value": "ied_installations"
+      },
+      {
+        "count": 750,
+        "value": "waste_transfers"
+      },
+      {
+        "count": 389,
+        "value": "air_releases"
+      },
+      {
+        "count": 140,
+        "value": "lcp_energy_emissions"
+      },
+      {
+        "count": 96,
+        "value": "pollutant_transfers"
+      },
+      {
+        "count": 83,
+        "value": "water_releases"
+      },
+      {
+        "count": 19,
+        "value": "ied_wi_cowi"
+      }
+    ]
+  },
+  "waste_classifications": {
+    "control": "multi_value",
+    "values": [
+      {
+        "count": 659,
+        "value": "HW"
+      },
+      {
+        "count": 434,
+        "value": "NONHW"
+      },
+      {
+        "count": 8,
+        "value": "CONFIDENTIAL"
+      }
+    ]
+  },
+  "waste_treatments": {
+    "control": "multi_value",
+    "values": [
+      {
+        "count": 639,
+        "value": "Disposal"
+      },
+      {
+        "count": 613,
+        "value": "Recovery"
+      },
+      {
+        "count": 8,
+        "value": "CONFIDENTIAL"
+      }
+    ]
+  }
+}
